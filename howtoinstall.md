@@ -10,7 +10,7 @@
 
 !!! Ox_inventory Users Read Below !!!
 
-If ur using ox_inventory add this below into ur items.lua file in ox_inventory.
+If ur using ox_inventory copy and paste this snippet below into ur items.lua file in ox_inventory.
 
 	['kevlar1'] = {
 		label = 'Light Kevlar',
