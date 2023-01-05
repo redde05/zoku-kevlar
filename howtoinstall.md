@@ -7,3 +7,28 @@
 4. Add the file name to ur server.cfg or wherever you start ur files.
 
 5. Restart ur server and boom done!
+
+!!! Ox_inventory Users Read Below !!!
+
+If ur using ox_inventory add this below into ur items.lua file in ox_inventory.
+
+	['kevlar1'] = {
+		label = 'Light Kevlar',
+		weight = 3000,
+		stack = false,
+		allowArmed = true
+	},
+
+	['kevlar2'] = {
+		label = 'Heavy Kevlar',
+		weight = 6000,
+		stack = false,
+		allowArmed = true
+	},
+
+	['kevlar3'] = {
+		label = 'Super Heavy Kevlar',
+		weight = 10000,
+		stack = false,
+		allowArmed = true
+	},
