@@ -1,4 +1,4 @@
-Requirments: ESX, ox_lib, ox_inventory
+Requirments: ESX or ox_lib and ox_inventory
 
 1. Download the script from Zoku's GitHub. Here's a link! https://github.com/ZokuRush/zoku-kevlar/tree/main
 
