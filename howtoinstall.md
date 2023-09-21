@@ -8,7 +8,10 @@
 
 5. Restart ur server and boom done!
 
-!!! Ox_inventory Users Read Below !!!
+Requirments:
+ESX
+ox_lib
+ox_inventory
 
 If ur using ox_inventory copy and paste this snippet below into ur items.lua file in ox_inventory.
 
